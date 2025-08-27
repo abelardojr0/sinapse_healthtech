@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [{ "type": "host", "value": "sinapsehealthtech.com.br" }],
+      "destination": "https://www.sinapsehealthtech.com.br/:1",
+      "permanent": true
+    }
+  ]
+}
